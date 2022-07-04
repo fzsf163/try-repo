@@ -7,7 +7,7 @@
 }
 
 .head2 {
-    color: rgb(92, 38, 38);
+    color: rgb(18, 41, 77);
     
     
    
@@ -24,6 +24,7 @@
     width: 40%;
     padding-top: 2%;
     text-align: left;
+    font-size: 20px;
 }
 
 .div-style{
@@ -50,7 +51,7 @@
 }
 
 .border-around{
-    border: 2px solid blue; 
+    border: 3px solid blue; 
     margin: 50px;
     
     
