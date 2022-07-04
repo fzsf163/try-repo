@@ -5,3 +5,12 @@
 .head2 {
     color: brown;
 }
+.tinny{
+    font-size: 12px;
+}
+.text-format{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    word-wrap: normal;
+    word-spacing: 5px;
+}
