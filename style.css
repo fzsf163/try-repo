@@ -51,10 +51,8 @@
 }
 
 .border-around{
-    border: 3px solid blue; 
-    margin: 50px;
-    
-    
+    border: 3px solid rgb(79, 79, 216); 
+    margin: 50px;   
 }
 /* somewhat second section */
 
@@ -74,10 +72,9 @@
     margin-top: 30px;
 }
 .img-fix-3{
-    display: block;
     height: 50%;
     width: 100%;
-    box-align: center;
+    border: 3px solid red;
 }
 
 .div-style-2{
@@ -100,4 +97,54 @@
 .div-of-paragraph-2{
     display: block;
     padding-left: 10%;
+}
+
+.bg{
+    background-image: url(/images/7.png);
+    background-repeat: round;
+    background-color: rgba(185, 91, 36, 0.842);
+}
+
+.border-around-1{
+    border: 3px solid rgba(151, 88, 6, 0.664); 
+    margin: 50px; 
+    border-top: 0;
+    border-left: 15px;  
+    box-shadow: 10px 10px 10px 5px rgba(124, 70, 70, 0.651), -10px 0px 10px 5px rgba(124, 70, 70, 0.651); 
+    /* box-shadow: [horizontal offset] [vertical offset] [blur radius] [optional spread radius] [color]; */
+}
+
+.border-around-2{
+    border: 3px solid rgba(151, 88, 6, 0.664); 
+    margin: 50px; 
+    border-top: 0;
+    border-right: 15px;  
+    box-shadow: -10px 10px 10px 5px rgba(124, 70, 70, 0.651), 10px 0px 10px 5px rgba(124, 70, 70, 0.651); 
+    /* box-shadow: [horizontal offset] [vertical offset] [blur radius] [optional spread radius] [color]; */
+}
+
+.border-around-3{
+    border: 3px solid rgba(151, 88, 6, 0.664); 
+    margin: 50px; 
+    border-top: 0;
+    border-left: 15px; 
+    border-right: 15px; 
+    box-shadow: 10px 10px 10px 5px rgba(124, 70, 70, 0.651), -10px 0px 10px 5px rgba(124, 70, 70, 0.651); 
+    /* box-shadow: [horizontal offset] [vertical offset] [blur radius] [optional spread radius] [color]; */
+}
+
+.hr-design{
+    color: rgb(36, 29, 29);
+    width: 850px;
+    margin-top: 300px;
+    border: 2px solid rgba(179, 141, 141, 0.37);
+    border-radius: 2px;
+    box-shadow: 1px -1px 1px 1px rgba(230, 82, 82, 0.774);
+}
+
+.footer-format{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
 }
