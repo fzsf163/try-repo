@@ -5,10 +5,9 @@
 
 .head2 {
     color: brown;
-    height: 0;
-    width: 50%;
-    display: block;
-    padding-left: 25%;
+    
+    
+   
 }
 .tinny{
     font-size: 12px;
@@ -22,8 +21,12 @@
     width: 40%;
 }
 
-.section-style{
+.div-style{
     display: flex;
+    
+}
+
+.div-of-paragraph{
     padding-left: 25%;
 }
 .img-fix{
