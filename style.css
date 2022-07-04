@@ -1,6 +1,7 @@
 .head  {
     color: rgb(3, 3, 19);
     padding-left: 25%;
+    padding-bottom: 30px;
 }
 
 .head2 {
@@ -19,6 +20,8 @@
     word-spacing: 5px;
     height: 20%;
     width: 40%;
+    padding-top: 2%;
+    text-align: left;
 }
 
 .div-style{
@@ -35,3 +38,19 @@
 }
  /* first phase ends here. do you wanna live healthy part  */
 
+ .img-fix-2{
+    height: 70%;
+    width: 70%;
+}
+
+.padding-gap{
+    padding: 30px;
+}
+
+.border-around{
+    border: 2px solid blue; 
+    margin: 50px;
+    
+    
+}
+/* somewhat second section */
