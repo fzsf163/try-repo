@@ -82,10 +82,7 @@
     border: 3px solid red;
 }
 
-.div-style-2{
-    display: block;
-    
-}
+
 
 .text-format-2{
     font-family: 'Courier New', Courier, monospace;
@@ -105,7 +102,7 @@
 }
 
 body{
-    background-image: url(/images/7.png);
+    background-image: url(/images/7.jpg);
     background-repeat: round;
     background-color: rgba(185, 91, 36, 0.842);
 }
